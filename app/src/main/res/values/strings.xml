@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AmazonTrApplication</string>
+    <string name="kimİcin">Kimin için alışveriş yapıyorsunuz?</string>
+    <string name="herkeseUygun">Herkese Uygun Hediyeler</string>
+    <string name="fiyat_button_text">Fiyat</string>
+    <string name="firsatlar_button_text">Fırsatlar</string>
+
+</resources>
